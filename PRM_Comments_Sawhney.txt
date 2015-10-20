@@ -1,0 +1,17 @@
+PRM Comments:
+
+What are the implications of Average_Answer = 0? Does that mean their question was never answered? Or is yet to be answered? Or that it was answered extremely quickly? Always good to understand exactly what are the implications of dropping data.
+
+I like to put all the imports at the top of the notebook so it's clear what the dependencies are.
+
+You use a lot of loops to alter values while you're cleaning your data. Try to use loops as little as possible, because they are relatively slow. Try using more direct transformation that affects entire rows or columns at once.
+
+This code gets harder to read towards the end, your comments at the beginning are consistent, but towards the end it looks like you were a little rushed.
+
+The results are interesting – it seems like Cynthia deserves a nice bonus indeed. It'd be nice to have a few more features about your customers to direct marketing. Is the ultimate purpose of this project to improve the average spend of customers (make more whales) or to evaluate your staff? Or are you trying to do both at once?
+
+It seems like Average_Answer is important to creating and retaining whales, but I wonder if these customers ask so many questions that they get into a rhythm with a psychic so that answers are given extremely rapidly to a string of questions asked. i.e. think about why the answers to whales seem to come faster? Is it because fast answers generate whales? Or does the behavior of whales cause psychics to answer more quickly.
+
+Would it be possible to break out how long it took to answer the first question they asked? That might somehow set expectations of customers.
+
+Could you add your cluster centers to the PCA? Does Cynthia point towards whales?
