@@ -1,0 +1,10 @@
+- Your objective is outlined very well and the code is easy to follow.
+
+
+- I like how your project relates to your everyday business and I can see the impact this has to what you’re doing.
+
+- I see that in your objective you have 3 clusters (Whale, Lapse, and Low Value), however in your code I see that you have around 12 clusters made. Would it be possible to see if you ran k means clustering just for 3 segments would you get clusters listed in your objective statement?
+
+-As said earlier in class it would also be great to see where the answers are coming from (IOS, Android, etc.)
+
+- Overall you had a great presentation and I can’t wait to see the final product
